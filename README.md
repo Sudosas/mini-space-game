@@ -7,9 +7,10 @@ The player moves around the screen and must avoid falling rocks.
 Touching a rock ends the game.
 
 ⚙️ Installation & Run
+
   1️⃣ Clone the repository
     git clone https://github.com/Sudosas/mini-space-game.git
-    cd game
+    cd game file
 
   2️⃣ (Optional) Create a virtual environment
     python -m venv venv
